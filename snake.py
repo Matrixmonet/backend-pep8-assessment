@@ -94,4 +94,3 @@ while key != 27:
 
 curses.endwin()
 print("\nScore - " + str(score))
-print("http://bitemelater.in\n")
